@@ -4,7 +4,7 @@
 
 We're [Modern Logic](https://modernlogic.io) — an AI and software consultancy for mid-market companies that want AI solving real problems, not running pilots that go nowhere. Based in Minnesota, working with clients everywhere.
 
-### → [Book a 15-minute AI brainstorm at molo.now](https://molo.now)
+### → [Book a 30 minute AI brainstorm at molo.now](https://molo.now)
 
 Straight into our calendar. No forms, no sales dance.
 
@@ -28,11 +28,11 @@ We cover AI, the shifting labor market, and how businesses are adapting in the r
 
 ## Get in touch
 
-- **Book a 15-minute AI brainstorm**: [molo.now](https://molo.now)
+- **Book a 30 minute AI brainstorm**: [molo.now](https://molo.now)
 - Website: [modernlogic.io](https://modernlogic.io)
 - Email: info@modernlogic.io
 - Phone: 866.265.9015
 
 ---
 
-**Ready to put AI to work? [molo.now](https://molo.now) — 15 minutes, straight into our calendar.**
+**Ready to put AI to work? [molo.now](https://molo.now) — 30 minutes, straight into our calendar.**
